@@ -1,12 +1,15 @@
-### Hi there 👋
+### So, this is me. Shawn! 👋
 
-<!--
-**shawndevp/shawndevp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages i have read
 
-Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
+- 🔭 I’m currently working on ... React.js
+- 🌱 I’m currently learning ... React.js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
