@@ -12,6 +12,6 @@
 
 
 
-- 🔭 I’m currently working on ... React.js
-- 🌱 I’m currently learning ... React.js
+- 🔭 I’m currently working on ... React.js & Tailwind
+- 🌱 I’m currently learning ... React.js & Tailwind
 - 💬 Ask me about ... Anything! 
