@@ -12,5 +12,5 @@
 
 
 
-- 🔭 🌱 I’m currently working & learning on ... React.js, Tailwind & Strapi 
+- 🔭 🌱 I’m currently working & learning on ... React.js & Strapi 
 - 💬 Ask me about ... Anything! 
