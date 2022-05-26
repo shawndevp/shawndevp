@@ -12,5 +12,5 @@
 
 
 
-- 🔭 🌱 I’m currently working & learning on ... React.js & Strapi 
+- 🔭 🌱 I’m currently working & learning on ... React.js & Vue.js 
 - 💬 Ask me about ... Anything! 
